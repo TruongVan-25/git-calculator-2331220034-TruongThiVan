@@ -1,0 +1,38 @@
+commit a350b1cfca437e1e10f9ad184c896db02ab0527d
+Author: TruongVan-25 <van.truong.cit23@eiu.edu.vn>
+Date:   Sat Oct 17 13:28:49 2026 +0700
+
+    Revert "Refactor: Reorder operator keys"
+    
+    This reverts commit 856c1029d2f8390119b532f514877f79adc87aa7.
+
+commit 2e7d4581980db2d6416b841f96f74c3419bcd74a
+Author: TruongVan-25 <van.truong.cit23@eiu.edu.vn>
+Date:   Sat Oct 17 13:17:23 2026 +0700
+
+    Build: Add .gitignore to ignore log files
+
+commit 3e00e108c1a86eec2b7e6ee1f41c06b58bd5e172
+Merge: 856c102 4e40167
+Author: TruongVan-25 <van.truong.cit23@eiu.edu.vn>
+Date:   Sat Oct 17 13:15:38 2026 +0700
+
+    Merge branch 'feature-sqrt'
+
+commit 856c1029d2f8390119b532f514877f79adc87aa7
+Author: TruongVan-25 <van.truong.cit23@eiu.edu.vn>
+Date:   Sat Oct 17 13:10:45 2026 +0700
+
+    Refactor: Reorder operator keys
+
+commit 4e4016791430c2992a2ce2400d61c3a84b03217c
+Author: TruongVan-25 <van.truong.cit23@eiu.edu.vn>
+Date:   Sat Oct 17 13:09:50 2026 +0700
+
+    Feature: Add square root functionality
+
+commit d46147a616c3cc6779b425138b0e09c4a5727609
+Author: TruongVan-25 <van.truong.cit23@eiu.edu.vn>
+Date:   Sat Oct 17 13:07:19 2026 +0700
+
+    Initial commit: Add base calculator project files
